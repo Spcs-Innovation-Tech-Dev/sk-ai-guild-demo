@@ -1,0 +1,6 @@
+[*.cs]
+
+dotnet_diagnostic.SKEXP0001.severity = none
+dotnet_diagnostic.CS8604.severity = none
+dotnet_diagnostic.CS8600.severity = none
+dotnet_diagnostic.CS0219.severity = none
